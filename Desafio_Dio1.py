@@ -77,6 +77,10 @@ while True:
 
         os.system('clear')
         print("Extrato")
+        if not extrato:
+            print('Sem Depósitos ou Saques')
+        else:
+            extrato
         print(extrato)
         print(f"\nVocê tem R${saldo} de Saldo.")
 
