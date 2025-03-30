@@ -5,6 +5,8 @@
 #### Desafio 1: 
 
 Primeiro desafio proposto pelo Bootcamp da Dio Suzano - Python Developer, objetivo geral criar um Sistema Bancário com as operações: Depositar, Sacar e Visualizar Extrato.
+#
+### Critérios do Desafio.
 
 #### Operação de depósito:
 
@@ -31,4 +33,4 @@ realizados na conta. No fim da listagem deve ser exibido o
 saldo atual da conta. Se o extrato estiver em branco, exibir a
 mensagem: Não foram realizadas movimentações.
 
-Codigo do 1 Desafio: [Script](https://github.com/olegarioluis/Sistema_Bancario_Dio/blob/main/Desafio_Dio1.py)
+Codigo do Primeiro Desafio: [Script.](https://github.com/olegarioluis/Sistema_Bancario_Dio/blob/main/Desafio_Dio1.py)
